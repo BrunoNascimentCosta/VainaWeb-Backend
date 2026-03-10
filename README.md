@@ -1,4 +1,4 @@
-# VainaWeb Backend
+# Vai na Web Backend
 
 Este é um projeto backend desenvolvido em **Node.js** para estudos e práticas da Escola Web.
 
